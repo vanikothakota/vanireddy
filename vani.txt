@@ -1,7 +1,1 @@
-hai git
-git is fast version control system
-<<<<<<< HEAD
-git is lightweight
-=======
 git is nice tool
->>>>>>> 24aef01e7cd372d744aaff5b9c24d2eff8435030
