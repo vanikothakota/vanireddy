@@ -1,1 +1,2 @@
 hai git
+git is fast version control system
